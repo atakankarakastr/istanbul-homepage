@@ -12,7 +12,7 @@ A modern, responsive website showcasing Istanbul's must-visit places and experie
 
 ## 🖼️ Preview
 
-![Istanbul Travel Guide Preview](images/preview.png)
+![Istanbul Travel Guide Preview](images/preview-2.png)
 
 ## 🚀 Live Demo
 

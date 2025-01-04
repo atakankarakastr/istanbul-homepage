@@ -3,7 +3,7 @@
 ## Core Images
 - `favicon.png` (32x32px, max 5KB)
 - `istanbul-hero-image.jpg` (1200x800px, max 200KB)
-- `preview.png` (1200x630px, max 150KB)
+- `preview-2.png` (1200x630px, max 150KB)
 
 ## Featured Places (All max 100KB each)
 - `hagia_sophia.jpg` (600x400px)
