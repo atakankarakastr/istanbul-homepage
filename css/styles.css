@@ -127,8 +127,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .featured-place img {
-    width: 500px;
-    height: 300px;
+    width: 100%;
+    height: auto;
+    max-width: 600px;
+    aspect-ratio: 3/2;
     object-fit: cover;
     border-radius: 10px;
 }
@@ -249,9 +251,9 @@ h1, h2, h3, h4, h5, h6 {
     }
 
     .featured-place img {
-        width: 100%;
-        max-width: 400px;
-        height: 250px;
+        max-width: 100%;
+        height: auto;
+        aspect-ratio: 3/2;
     }
     
     .place-content {

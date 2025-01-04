@@ -1,23 +1,28 @@
 # Required Images
 
-The following images are needed for the website:
-
 ## Core Images
-- `favicon.png` (32x32px)
-- `istanbul-hero-image.jpg` (1920x1080px)
-- `preview.png` (1200x630px - for social media sharing)
+- `favicon.png` (32x32px, max 5KB)
+- `istanbul-hero-image.jpg` (1200x800px, max 200KB)
+- `preview.png` (1200x630px, max 150KB)
 
-## Featured Places
-- `hagia_sophia.jpg` (800x600px)
-- `blue_mosque.jpg` (800x600px)
-- `grand_bazaar.jpg` (800x600px)
-- `turkish_bath.jpg` (800x600px)
-- `food_tour.jpg` (800x600px)
-- `bosphorus_cruise.jpg` (800x600px)
+## Featured Places (All max 100KB each)
+- `hagia_sophia.jpg` (600x400px)
+- `blue_mosque.jpg` (600x400px)
+- `grand_bazaar.jpg` (600x400px)
+- `turkish_bath.jpg` (600x400px)
+- `food_tour.jpg` (600x400px)
+- `bosphorus_cruise.jpg` (600x400px)
 
-## Image Guidelines
-- All images should be optimized for web
-- Use JPG format for photos
-- Use PNG format for icons and logos
-- Maximum file size: 300KB per image
-- Recommended resolution: 72 DPI
+## Image Optimization Guidelines
+- Use WebP format with JPG fallback
+- Enable lazy loading for all images
+- Compress images using tools like:
+  - [Squoosh](https://squoosh.app/)
+  - [TinyPNG](https://tinypng.com/)
+- Use responsive images where possible
+- Maximum file sizes:
+  - Hero image: 200KB
+  - Feature images: 100KB
+  - Icons: 5KB
+- Resolution: 72 DPI
+- Color profile: sRGB
