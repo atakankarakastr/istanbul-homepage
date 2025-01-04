@@ -49,10 +49,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Atakan Karakaş - [@atakankarakastr](https://github.com/atakankarakastr)
 
-- Email: atakan@istanbulguide.com
-- LinkedIn: [Your LinkedIn](#)
-- Twitter: [@YourTwitter](#)
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
